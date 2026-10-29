@@ -138,3 +138,4 @@ El objetivo del proyecto es desarrollar un sistema automático capaz de proporci
 ## 📚 Proyecto escolar
 
 Proyecto de automatización con Arduino desarrollado como trabajo práctico escolar.
+..
